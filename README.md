@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)]
 
-​
-[출처] 개발자들의 sns 깃허브 개발자가 되고싶다면 일단 gitHub 리드미 꾸미기|작성자 김고고
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
