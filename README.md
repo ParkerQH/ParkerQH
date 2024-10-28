@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkerQH)
 
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
