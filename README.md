@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)
 
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
