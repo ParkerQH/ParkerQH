@@ -1,6 +1,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)
-![Starchart](https://starchart.cc/ParkerQH/Wander-Space.svg)
 
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![js](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)<br>
