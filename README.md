@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerQH)
-![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
