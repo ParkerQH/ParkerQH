@@ -6,7 +6,7 @@
 ![js](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)<br>
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js,oracle,mysql,bootstrap,maven&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js,oracle,mysql,bootstrap,maven&theme=light)](https://skillicons.dev)
 
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
