@@ -8,7 +8,7 @@
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
 ![My Skills](https://skillicons.dev/icons?i=java,c,python&theme=light)<br>
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)<br>
-![My Skills](https://skillicons.dev/icons?i=mysql,maven&theme=light)<br>
+![My Skills](https://skillicons.dev/icons?i=mysql,maven,firebase&theme=light)<br>
 ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,ubuntu&theme=light)
 
 
