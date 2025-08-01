@@ -19,17 +19,22 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<!-- 주요 언어/프레임워크 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,bootstrap&theme=light"&perline=7" />
-</p>
+**💻 Languages:**  
+![Python](https://skillicons.dev/icons?i=python&theme=light) ![Java](https://skillicons.dev/icons?i=java&theme=light) ![C](https://skillicons.dev/icons?i=c&theme=light)
 
-<!-- 도구 & 서비스 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,maven,vscode,eclipse,figma,ubuntu&theme=light"&perline=7" />
-</p>
+**🌐 Web / Scripting:**  
+![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![JS](https://skillicons.dev/icons?i=js&theme=light) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light)
+
+**🤖 AI / ML / Vision:**  
+![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)
+
+**🔧 Tools / Dev / IDE**  
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=light) ![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Github](https://skillicons.dev/icons?i=github&theme=light)
+
+**☁️ Cloud / Database / Infra**  
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
 
 ---
 
