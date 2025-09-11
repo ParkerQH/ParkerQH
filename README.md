@@ -42,8 +42,7 @@
 ### 🤖 AI / ML / Vision
 ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light) 
-![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)  
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)   
 YOLOv11 · MediaPipe · LSTM · ByteTrack
 
 ### ☁️ Cloud / Database
