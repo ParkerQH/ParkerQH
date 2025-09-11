@@ -2,20 +2,22 @@
 <h1 align="center">🛫 Hi, I'm <strong>Parker</strong> 👋</h1>
 
 <p align="center">
-  🚀 Passionate about building intelligent systems <br>
-  🧠 AI Engineer · 🧰 Developer · 📍 Seoul, South Korea
+  🚀 Passionate about building intelligent & geospatial systems <br>
+  🧠 AI Engineer · 🗺️ GIS Developer · 📍 Seoul, South Korea
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 💻 I love creating intelligent automation systems with AI & Computer Vision
-- 🔍 Currently focusing on YOLOv11, MediaPipe, Firebase, LSTM
-- 📦 Recent Projects:
-  - `KTS_YOLO`: 실시간 CCTV 킥보드 감지
+- 💻 I love creating **AI-powered automation** and **geospatial platforms**
+- 🔍 Currently focusing on **YOLOv11, MediaPipe, Firebase, PostGIS, GeoServer**
+- 📦 Major Projects:
+  - `KTS_YOLO`: 실시간 CCTV 킥보드 감지 (YOLOv11 + ByteTrack)
+  - `KTS_AI_Analysis`: 전동킥보드 위반 자동 분석 통합 파이프라인
   - `KTS_MediaPipe-LSTM`: 포즈 기반 탑승자 판별
-  - `KTS_AI_Analysis`: 위반 자동 분석 통합 파이프라인
+  - `Seoul_Administrative_Map`: QGIS → PostGIS → GeoServer → OpenLayers 기반 서울 행정 지도 구축
+  - `Map-Frontend (Vite+Spring)`: OpenLayers 기반 지도 서비스 웹 프론트
 
 ---
 
@@ -24,17 +26,19 @@
 ### 💻 Languages
 ![Python](https://skillicons.dev/icons?i=python&theme=light) ![Java](https://skillicons.dev/icons?i=java&theme=light) ![C](https://skillicons.dev/icons?i=c&theme=light)
 
-### 🌐 Web / Scripting
-![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![JS](https://skillicons.dev/icons?i=js&theme=light) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light)
+### 🌐 Web / GIS
+![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![JS](https://skillicons.dev/icons?i=js&theme=light) ![Vite](https://skillicons.dev/icons?i=vite&theme=light) ![Spring](https://skillicons.dev/icons?i=spring&theme=light)  
+🗺️ QGIS · PostGIS · GeoServer · OpenLayers
 
 ### 🤖 AI / ML / Vision
-![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)
+![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)  
+YOLOv11 · MediaPipe · LSTM · ByteTrack
+
+### ☁️ Cloud / Database
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![Postgresql](https://skillicons.dev/icons?i=postgres&theme=light)
 
 ### 🔧 Tools / Dev / IDE
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=light) ![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Github](https://skillicons.dev/icons?i=github&theme=light)
-
-### ☁️ Cloud / Database / Infra
-![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
 
 ---
 
