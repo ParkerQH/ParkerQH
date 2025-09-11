@@ -24,21 +24,43 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://skillicons.dev/icons?i=python&theme=light) ![Java](https://skillicons.dev/icons?i=java&theme=light) ![C](https://skillicons.dev/icons?i=c&theme=light)
+![Python](https://skillicons.dev/icons?i=python&theme=light) 
+![Java](https://skillicons.dev/icons?i=java&theme=light) 
+![C](https://skillicons.dev/icons?i=c&theme=light)
 
-### 🌐 Web / GIS
-![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![JS](https://skillicons.dev/icons?i=js&theme=light) ![Vite](https://skillicons.dev/icons?i=vite&theme=light) ![Spring](https://skillicons.dev/icons?i=spring&theme=light)  
+### 🌐 Web / Scripting / GIS
+![HTML](https://skillicons.dev/icons?i=html&theme=light) 
+![CSS](https://skillicons.dev/icons?i=css&theme=light) 
+![JS](https://skillicons.dev/icons?i=js&theme=light) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light) 
+![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light) 
+![NPM](https://skillicons.dev/icons?i=npm&theme=light) 
+![Vite](https://skillicons.dev/icons?i=vite&theme=light) 
+![Spring](https://skillicons.dev/icons?i=spring&theme=light)  
 🗺️ QGIS · PostGIS · GeoServer · OpenLayers
 
 ### 🤖 AI / ML / Vision
-![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)  
+![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) 
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) 
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light) 
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)  
 YOLOv11 · MediaPipe · LSTM · ByteTrack
 
 ### ☁️ Cloud / Database
-![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![Postgresql](https://skillicons.dev/icons?i=postgres&theme=light)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) 
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) 
+![Postgresql](https://skillicons.dev/icons?i=postgres&theme=light) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
 
-### 🔧 Tools / Dev / IDE
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=light) ![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Github](https://skillicons.dev/icons?i=github&theme=light)
+### 🔧 Tools / Dev / IDE / Infra
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=light) 
+![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=light) 
+![Figma](https://skillicons.dev/icons?i=figma&theme=light) 
+![Git](https://skillicons.dev/icons?i=git&theme=light) 
+![Github](https://skillicons.dev/icons?i=github&theme=light) 
+![Gradle](https://skillicons.dev/icons?i=gradle&theme=light) 
+![Maven](https://skillicons.dev/icons?i=maven&theme=light) 
+![Linux](https://skillicons.dev/icons?i=linux&theme=light)
 
 ---
 
