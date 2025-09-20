@@ -2,8 +2,8 @@
 <h1 align="center">🛫 Hi, I'm <strong>Parker</strong> 👋</h1>
 
 <p align="center">
-  🚀 Passionate about building intelligent & geospatial systems <br>
-  🧠 Computer Vision · 🗺️ GIS Mapping · 🌐 Full-stack Development · 📍 Seoul, South Korea
+  🚀 Building intelligent systems for mobility & smart cities <br>
+  🤖 AI Engineer · 🗺️ GIS Mapping · 🌐 Full-stack Development · 📍 Seoul, South Korea
 </p>
 
 ---
