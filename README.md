@@ -48,9 +48,9 @@ YOLOv11 · MediaPipe · LSTM · ByteTrack
 
 ### ☁️ Cloud / Database
 ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) 
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
 ![Postgresql](https://skillicons.dev/icons?i=postgres&theme=light) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) 
 
 ### 🔧 Tools / Dev / IDE / Infra
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=light) 
@@ -61,7 +61,9 @@ YOLOv11 · MediaPipe · LSTM · ByteTrack
 ![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=light) 
 ![Gradle](https://skillicons.dev/icons?i=gradle&theme=light) 
 ![Maven](https://skillicons.dev/icons?i=maven&theme=light) 
-![Linux](https://skillicons.dev/icons?i=linux&theme=light)
+![Linux](https://skillicons.dev/icons?i=linux&theme=light) 
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=light) 
+![Postman](https://skillicons.dev/icons?i=postman&theme=light)
 
 ---
 
