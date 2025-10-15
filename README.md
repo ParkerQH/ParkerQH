@@ -38,7 +38,7 @@
 ![NPM](https://skillicons.dev/icons?i=npm&theme=light) 
 ![Vite](https://skillicons.dev/icons?i=vite&theme=light) 
 ![Spring](https://skillicons.dev/icons?i=spring&theme=light)  
-🗺️ QGIS · PostGIS · GeoServer · OpenLayers
+🗺️ QGIS · PostGIS · GeoServer · OpenLayers · Cesium
 
 ### 🤖 AI / ML / Vision
 ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=light) 
@@ -48,7 +48,7 @@ YOLOv11 · MediaPipe · LSTM · ByteTrack
 
 ### ☁️ Cloud / Database
 ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) 
-![MySQL](https://skillicons.dev/icons?i=mysql) 
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) 
 ![Postgresql](https://skillicons.dev/icons?i=postgres&theme=light) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) 
 
